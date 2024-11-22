@@ -1,7 +1,7 @@
 {
     "version": 02,
     "entry_package": "sources_by_shun",
-    "download_url": "https://github.com/ms840617/tingshu/blob/1909fb073c83a1dd2698ff7baeb2821bf51c207e/sources_by_shun.jar",
+    "download_url": "https://raw.githubusercontent.com/ms840617/tingshu/1909fb073c83a1dd2698ff7baeb2821bf51c207e/sources_by_shun.jar",
     "update_msg": "瞬听",
     "support_url": ""
 }
